@@ -1,4 +1,4 @@
-
+//This program counts the number of occurences of numbers from a file
 
 /* ****************************************************************************************************** */
 

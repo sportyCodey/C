@@ -1,3 +1,5 @@
+//This program shows the days elapsed given input
+
 #include <stdio.h>
 
 struct date 

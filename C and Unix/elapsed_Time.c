@@ -1,3 +1,5 @@
+//This program shows the time elapsed given input
+
 #include <stdio.h>
 
 struct time

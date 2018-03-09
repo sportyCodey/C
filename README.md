@@ -6,7 +6,7 @@ Before I get into the details, here's a quick run down of each file posted.
 Programs from the Advanced Operating Systems class: OS
 ******************************************************
 
-Prograrms from the C and Unix class: C and Unix
+Programs from the C and Unix class: C and Unix
 ******************************************************
 
 I took one class on C and Unix and an Advanced Operating Systems class that used C. I haven't done any personal projects in C, but here are some class assignments that I have completed. I still code in C, however; as of now, I'm mainly reviewing the C language, the theory, and the syntax. 

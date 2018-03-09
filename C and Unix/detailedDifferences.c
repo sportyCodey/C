@@ -1,4 +1,4 @@
-//Andrew Hudson
+//This program displays the difference between words
 
 #include<stdio.h>
 #include<string.h>

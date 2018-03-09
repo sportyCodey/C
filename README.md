@@ -1,7 +1,7 @@
 # C
 Some of my work in C
 
-Before I get into the details, here's a quick run down of each file posted.
+Before I get into the details, here's a quick run down of each folder posted:
 
 Programs from the Advanced Operating Systems class: OS
 ******************************************************
